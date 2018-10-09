@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../../../Downloads/GoogleMobileAdsSdkiOS-7.34.0/GoogleMobileAds.framework">
+   </FileRef>
+   <FileRef
       location = "self:todolist1.xcodeproj">
    </FileRef>
 </Workspace>
